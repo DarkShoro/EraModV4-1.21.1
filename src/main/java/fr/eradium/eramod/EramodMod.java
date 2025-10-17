@@ -25,6 +25,7 @@ import java.util.HashMap;
 import java.util.Collection;
 import java.util.ArrayList;
 
+import fr.eradium.eramod.init.EramodModTabs;
 import fr.eradium.eramod.init.EramodModParticleTypes;
 import fr.eradium.eramod.init.EramodModItems;
 
@@ -40,6 +41,8 @@ public class EramodMod {
 		modEventBus.addListener(this::registerNetworking);
 
 		EramodModItems.REGISTRY.register(modEventBus);
+
+		EramodModTabs.REGISTRY.register(modEventBus);
 
 		EramodModParticleTypes.REGISTRY.register(modEventBus);
 
