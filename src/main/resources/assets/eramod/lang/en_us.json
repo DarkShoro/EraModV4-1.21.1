@@ -14,5 +14,6 @@
   "skinapi.ignored.specific": "Ignored custom {t} for player: ",
   "skinapi.failed.inlist": "{p}\u0027s {type} is already ignored!",
   "item.eramod.tele_caster": "Caster",
-  "item.eramod.escapitath": "Escapitath"
+  "item.eramod.escapitath": "Escapitath",
+  "item.eramod.fdp": "Bonjour"
 }
