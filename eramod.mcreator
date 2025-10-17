@@ -144,13 +144,13 @@
   },
   "metadata": {
     "files": [
-      "src/main/java/fr/eradium/eramod/EramodMod.java",
-      "src/main/resources/META-INF/neoforge.mods.toml",
       "src/main/resources/pack.mcmeta",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/fr/eradium/eramod/EramodMod.java",
       "src/main/resources/eramod.mixins.json",
       "src/main/java/fr/eradium/eramod/init/EramodModConfigs.java",
-      "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
       "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
       "src/main/java/fr/eradium/eramod/init/EramodModItems.java"
     ]
   },
