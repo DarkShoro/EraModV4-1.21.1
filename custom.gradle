@@ -20,4 +20,5 @@ dependencies {
     implementation("maven.modrinth:architectury-api:ZxYGwlk0")
     implementation("curse.maven:statues-253172:6036375")
     implementation("curse.maven:iron-chests-228756:5491156")
+    runtimeOnly("curse.maven:neoauth-1140741:7069504")
 }
