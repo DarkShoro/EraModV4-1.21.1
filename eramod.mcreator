@@ -114,13 +114,30 @@
           "src/main/java/fr/eradium/eramod/configuration/ParticlesInfosConfiguration.java"
         ]
       }
+    },
+    {
+      "name": "Escapitath",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escapitath",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/escapitath.json",
+          "src/main/java/fr/eradium/eramod/item/EscapitathItem.java"
+        ]
+      },
+      "path": "~/nox"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {
     "BLOCKS:minecraft:mineable/pickaxe": [],
-    "BLOCKS:minecraft:needs_diamond_tool": []
+    "BLOCKS:minecraft:needs_diamond_tool": [],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Escapitath"
+    ]
   },
   "tab_element_order": {},
   "language_map": {
@@ -139,12 +156,14 @@
       "skinapi.unignored.specific": "Unignored custom {t} for player: ",
       "skinapi.ignored.specific": "Ignored custom {t} for player: ",
       "skinapi.failed.inlist": "{p}\u0027s {type} is already ignored!",
-      "item.eramod.tele_caster": "Caster"
+      "item.eramod.tele_caster": "Caster",
+      "item.eramod.escapitath": "Escapitath"
     }
   },
   "metadata": {
     "files": [
       "src/main/resources/pack.mcmeta",
+      "src/main/java/fr/eradium/eramod/init/EramodModTabs.java",
       "src/main/resources/META-INF/neoforge.mods.toml",
       "src/main/java/fr/eradium/eramod/EramodMod.java",
       "src/main/resources/eramod.mixins.json",
@@ -169,6 +188,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "nox",
+        "children": []
       }
     ]
   },
