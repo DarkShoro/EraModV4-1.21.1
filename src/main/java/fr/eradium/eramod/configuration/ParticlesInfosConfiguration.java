@@ -24,8 +24,8 @@ public class ParticlesInfosConfiguration {
 		BUILDER.push("particles");
 		BUILDER.push("lightattack");
 		LIGHTATTAKEFFECT = BUILDER.comment("The efkefc file with the particle inside").define("effect", "lightattak");
-		LIGHTATTAKYNUDGE = BUILDER.comment("How much to move the particle downward").define("yNudge", (double) 0.1);
-		LIGHTATTAKFWNUDGE = BUILDER.comment("How much to move the particle forward").define("fwNudge", (double) 1);
+		LIGHTATTAKYNUDGE = BUILDER.comment("How much to move the particle downward").define("yNudge", (double) 0.5);
+		LIGHTATTAKFWNUDGE = BUILDER.comment("How much to move the particle forward").define("fwNudge", (double) 2);
 		LIGHTATTAKSCALE = BUILDER.comment("The scale of the particle").define("Scale", (double) 0.5);
 		BUILDER.push("rotation");
 		LIGHTATTAKYAW = BUILDER.comment("Yaw adjustement of the particle").define("yaw", (double) -90);

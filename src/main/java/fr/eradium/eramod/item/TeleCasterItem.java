@@ -1,5 +1,6 @@
 package fr.eradium.eramod.item;
 
+import fr.eradium.eramod.EramodMod;
 import fr.eradium.eramod.configuration.ParticlesInfosConfiguration;
 import fr.eradium.eramod.util.ParticleHelper;
 import mod.chloeprime.aaaparticles.api.common.ParticleEmitterInfo;
@@ -65,7 +66,7 @@ public class TeleCasterItem extends Item {
 				final Vec3 finalEnd = end;
 				final AABB finalSearchBox = searchBox;
 				
-				server.tell(new TickTask(server.getTickCount() + 24, () -> {
+				EramodMod.queueServerWork(9, () -> {
 					for (Entity entity : world.getEntities(player, finalSearchBox)) {
 						if (entity instanceof LivingEntity && entity != player) {
 							// Check if the entity's bounding box intersects with our ray
@@ -77,7 +78,7 @@ public class TeleCasterItem extends Item {
 							}
 						}
 					}
-				}));
+				});
 			}
 		}
 

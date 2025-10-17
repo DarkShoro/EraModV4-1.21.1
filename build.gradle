@@ -44,4 +44,4 @@ tasks.withType(JavaCompile).configureEach {
 }
 
 apply from: 'mcreator.gradle'
-apply from: 'custom.gradle'
+apply from: 'custom.gradle' // Apply custom configurations
