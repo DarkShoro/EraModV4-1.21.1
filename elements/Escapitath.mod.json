@@ -5,7 +5,7 @@
     "toolType": "Sword",
     "renderType": 0,
     "blockingRenderType": 0,
-    "texture": "minecraft:empty_slot_sword",
+    "texture": "escapitath",
     "customModelName": "Normal",
     "blockingModelName": "Normal blocking",
     "guiTexture": "",
