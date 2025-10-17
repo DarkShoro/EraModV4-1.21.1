@@ -128,6 +128,20 @@
         ]
       },
       "path": "~/nox"
+    },
+    {
+      "name": "Fdp",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fdp",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/FdpItem.java",
+          "src/main/resources/assets/eramod/models/item/fdp.json"
+        ]
+      },
+      "path": "~/nox"
     }
   ],
   "variable_elements": [],
@@ -137,6 +151,9 @@
     "BLOCKS:minecraft:needs_diamond_tool": [],
     "ITEMS:minecraft:swords": [
       "~CUSTOM:Escapitath"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:Fdp"
     ]
   },
   "tab_element_order": {},
@@ -157,19 +174,20 @@
       "skinapi.ignored.specific": "Ignored custom {t} for player: ",
       "skinapi.failed.inlist": "{p}\u0027s {type} is already ignored!",
       "item.eramod.tele_caster": "Caster",
-      "item.eramod.escapitath": "Escapitath"
+      "item.eramod.escapitath": "Escapitath",
+      "item.eramod.fdp": "Bonjour"
     }
   },
   "metadata": {
     "files": [
-      "src/main/resources/pack.mcmeta",
       "src/main/java/fr/eradium/eramod/init/EramodModTabs.java",
-      "src/main/resources/META-INF/neoforge.mods.toml",
       "src/main/java/fr/eradium/eramod/EramodMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
       "src/main/resources/eramod.mixins.json",
       "src/main/java/fr/eradium/eramod/init/EramodModConfigs.java",
-      "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
       "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
       "src/main/java/fr/eradium/eramod/init/EramodModItems.java"
     ]
   },
