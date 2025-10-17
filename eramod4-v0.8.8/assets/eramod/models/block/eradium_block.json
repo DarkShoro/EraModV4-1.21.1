@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:blocks/eradium_ore_block",
+    "up": "eramod:blocks/eradium_ore_block",
+    "north": "eramod:blocks/eradium_ore_block",
+    "east": "eramod:blocks/eradium_ore_block",
+    "south": "eramod:blocks/eradium_ore_block",
+    "west": "eramod:blocks/eradium_ore_block",
+    "particle": "eramod:blocks/eradium_ore_block"
+  }
+}

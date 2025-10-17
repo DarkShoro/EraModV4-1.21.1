@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:blocks/geana_cobblestone",
+    "up": "eramod:blocks/geana_furnace_side_2",
+    "north": "eramod:blocks/geana_furnace_front",
+    "east": "eramod:blocks/geana_furnace_side",
+    "south": "eramod:blocks/geana_furnace_side",
+    "west": "eramod:blocks/geana_furnace_side",
+    "particle": "eramod:blocks/geana_cobblestone"
+  }
+}

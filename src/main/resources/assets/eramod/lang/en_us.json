@@ -1,0 +1,17 @@
+{
+  "skinapi.refresh.self": "Reloaded your skin cache!",
+  "skinapi.failed.self": "Failed to reload skin:",
+  "skinapi.refresh.other": "Reloaded skin cache for",
+  "skinapi.failed.player": "Player not found!",
+  "skinapi.failed.other": "Failed to reload skin of {p}:",
+  "skinapi.ignored": "Ignored custom skins/capes for player: ",
+  "skinapi.failed.ignore": "Failed to ignore player: ",
+  "skinapi.unignored": "Unignored all custom skins/capes for player: ",
+  "skinapi.failed.unignore": "Failed to unignore player:",
+  "skinapi.failed.ignore.args": "Invalid type! Use: skin, cape, or both",
+  "skinapi.failed.notinlist": "{p}\u0027s {type} is not ignored!",
+  "skinapi.unignored.specific": "Unignored custom {t} for player: ",
+  "skinapi.ignored.specific": "Ignored custom {t} for player: ",
+  "skinapi.failed.inlist": "{p}\u0027s {type} is already ignored!",
+  "item.eramod.tele_caster": "Caster"
+}

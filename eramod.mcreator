@@ -1,0 +1,194 @@
+{
+  "mod_elements": [
+    {
+      "name": "EraWolfSkin",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "era_wolf_skin",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/mixin/EraWolfSkinMixin.java"
+        ]
+      },
+      "path": "~/Mixins/AnimalsTextures"
+    },
+    {
+      "name": "EraWolfCollarSkin",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "era_wolf_collar_skin",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/mixin/EraWolfCollarSkinMixin.java"
+        ]
+      },
+      "path": "~/Mixins/AnimalsTextures"
+    },
+    {
+      "name": "EraSkinAPI",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "era_skin_api",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/mixin/EraSkinAPIMixin.java"
+        ]
+      },
+      "path": "~/Mixins/SkinSystem"
+    },
+    {
+      "name": "SkinManager",
+      "type": "command",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "skin_manager",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/command/SkinManagerCommand.java"
+        ]
+      },
+      "path": "~/Mixins/SkinSystem"
+    },
+    {
+      "name": "ResetCache",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reset_cache",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/ResetCache.java"
+        ]
+      },
+      "path": "~/Mixins/SkinSystem"
+    },
+    {
+      "name": "Lightning",
+      "type": "particle",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lightning",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/particles/lightning.json",
+          "src/main/java/fr/eradium/eramod/client/particle/LightningParticle.java"
+        ]
+      }
+    },
+    {
+      "name": "EraParticlesInit",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "era_particles_init",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/EraParticlesInit.java"
+        ]
+      }
+    },
+    {
+      "name": "TeleCaster",
+      "type": "item",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "tele_caster",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/TeleCasterItem.java",
+          "src/main/resources/assets/eramod/models/item/tele_caster.json"
+        ]
+      }
+    },
+    {
+      "name": "ParticlesInfos",
+      "type": "config",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "particles_infos",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/configuration/ParticlesInfosConfiguration.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [],
+    "BLOCKS:minecraft:needs_diamond_tool": []
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "skinapi.refresh.self": "Reloaded your skin cache!",
+      "skinapi.failed.self": "Failed to reload skin:",
+      "skinapi.refresh.other": "Reloaded skin cache for",
+      "skinapi.failed.player": "Player not found!",
+      "skinapi.failed.other": "Failed to reload skin of {p}:",
+      "skinapi.ignored": "Ignored custom skins/capes for player: ",
+      "skinapi.failed.ignore": "Failed to ignore player: ",
+      "skinapi.unignored": "Unignored all custom skins/capes for player: ",
+      "skinapi.failed.unignore": "Failed to unignore player:",
+      "skinapi.failed.ignore.args": "Invalid type! Use: skin, cape, or both",
+      "skinapi.failed.notinlist": "{p}\u0027s {type} is not ignored!",
+      "skinapi.unignored.specific": "Unignored custom {t} for player: ",
+      "skinapi.ignored.specific": "Ignored custom {t} for player: ",
+      "skinapi.failed.inlist": "{p}\u0027s {type} is already ignored!",
+      "item.eramod.tele_caster": "Caster"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/fr/eradium/eramod/EramodMod.java",
+      "src/main/resources/eramod.mixins.json",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/fr/eradium/eramod/init/EramodModConfigs.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModItems.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Mixins",
+        "children": [
+          {
+            "name": "SkinSystem",
+            "children": []
+          },
+          {
+            "name": "AnimalsTextures",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "eramod",
+    "modName": "EraMod",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "jei"
+    ],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "fr.eradium.eramod"
+  },
+  "mcreatorVersion": 202500228610
+}

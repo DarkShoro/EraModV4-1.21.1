@@ -1,0 +1,65 @@
+{
+  "pan_flute_leave": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "eramod:pan_flute_leave",
+        "stream": true
+      }
+    ]
+  },
+  "pan_flute_enter": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "eramod:pan_flute_enter",
+        "stream": true
+      }
+    ]
+  },
+  "dim_geana_theme": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "eramod:dim_geana_theme",
+        "stream": true
+      }
+    ]
+  },
+  "pan_flute_notec": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "eramod:pan_flute_notec",
+        "stream": false
+      }
+    ]
+  },
+  "pan_flute_noteg": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "eramod:pan_flute_noteg",
+        "stream": false
+      }
+    ]
+  },
+  "pan_flute_notea": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "eramod:pan_flute_notea",
+        "stream": false
+      }
+    ]
+  },
+  "pan_flute_notee": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "eramod:pan_flute_notee",
+        "stream": false
+      }
+    ]
+  }
+}

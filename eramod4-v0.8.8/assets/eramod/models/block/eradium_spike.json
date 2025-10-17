@@ -1,0 +1,8 @@
+{
+  "parent": "eramod:custom/eradiumspikemodel",
+  "textures": {
+    "all": "eramod:blocks/eradium_ore_block",
+    "particle": "eramod:blocks/eradium_ore_block",
+    "0": "eramod:blocks/eradium_ore_block"
+  }
+}

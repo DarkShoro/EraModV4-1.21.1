@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "eramod:blocks/geana_planks",
+    "top": "eramod:blocks/geana_planks",
+    "side": "eramod:blocks/geana_planks"
+  }
+}

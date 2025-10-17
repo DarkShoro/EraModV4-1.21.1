@@ -1,0 +1,7 @@
+{
+  "parent": "eramod:custom/pan_flute",
+  "textures": {
+    "0": "eramod:blocks/pan_flute",
+    "particle": "eramod:items/pan_flute"
+  }
+}

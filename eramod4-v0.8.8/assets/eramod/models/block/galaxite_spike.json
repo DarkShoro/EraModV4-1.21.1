@@ -1,0 +1,8 @@
+{
+  "parent": "eramod:custom/galaxitespikemodel",
+  "textures": {
+    "all": "eramod:blocks/galaxite_block",
+    "particle": "eramod:blocks/galaxite_block",
+    "0": "eramod:blocks/galaxite_block"
+  }
+}

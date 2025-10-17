@@ -1,0 +1,7 @@
+{
+  "parent": "eramod:custom/dynamite",
+  "textures": {
+    "0": "eramod:blocks/dynamite",
+    "particle": "eramod:items/dynamite"
+  }
+}

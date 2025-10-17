@@ -1,0 +1,23 @@
+repositories {
+    exclusiveContent {
+        forRepository {
+            maven {
+                name = "Modrinth"
+                url = "https://api.modrinth.com/maven"
+            }
+        }
+        filter {
+            includeGroup "maven.modrinth"
+        }
+    }
+    maven {
+        url "https://cursemaven.com"
+    }
+}
+    
+dependencies {
+    implementation("maven.modrinth:aaa-particles:apkXxn3m")
+    implementation("maven.modrinth:architectury-api:ZxYGwlk0")
+    implementation("curse.maven:statues-253172:6036375")
+    implementation("curse.maven:iron-chests-228756:5491156")
+}

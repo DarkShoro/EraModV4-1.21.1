@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "eramod:block/cave_block"
+    }
+  }
+}

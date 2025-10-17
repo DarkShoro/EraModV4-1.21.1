@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:blocks/geana_planks",
+    "up": "eramod:blocks/geana_planks",
+    "north": "eramod:blocks/geana_planks",
+    "east": "eramod:blocks/geana_planks",
+    "south": "eramod:blocks/geana_planks",
+    "west": "eramod:blocks/geana_planks",
+    "particle": "eramod:blocks/geana_planks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "eramod:blocks/geana_bricks",
+    "top": "eramod:blocks/geana_bricks",
+    "side": "eramod:blocks/geana_bricks"
+  }
+}

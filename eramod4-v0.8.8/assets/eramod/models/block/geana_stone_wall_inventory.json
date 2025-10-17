@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "eramod:blocks/geana_stone",
+    "particle": "eramod:blocks/geana_stone"
+  }
+}

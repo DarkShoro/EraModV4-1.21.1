@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:blocks/cave_block",
+    "up": "eramod:blocks/cave_block",
+    "north": "eramod:blocks/cave_block",
+    "east": "eramod:blocks/cave_block",
+    "south": "eramod:blocks/cave_block",
+    "west": "eramod:blocks/cave_block",
+    "particle": "eramod:blocks/cave_block"
+  }
+}

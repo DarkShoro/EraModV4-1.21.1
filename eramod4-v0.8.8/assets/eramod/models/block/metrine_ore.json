@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:blocks/metrine_ore",
+    "up": "eramod:blocks/metrine_ore",
+    "north": "eramod:blocks/metrine_ore",
+    "east": "eramod:blocks/metrine_ore",
+    "south": "eramod:blocks/metrine_ore",
+    "west": "eramod:blocks/metrine_ore",
+    "particle": "eramod:blocks/metrine_ore"
+  }
+}

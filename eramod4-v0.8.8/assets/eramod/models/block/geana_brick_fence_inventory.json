@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "eramod:blocks/geana_bricks",
+    "particle": "eramod:blocks/geana_bricks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "eramod:items/eradium_fragmented_gem"
+  }
+}

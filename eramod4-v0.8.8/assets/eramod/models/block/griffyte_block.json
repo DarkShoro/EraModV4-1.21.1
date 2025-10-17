@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:blocks/griffyte_block",
+    "up": "eramod:blocks/griffyte_block",
+    "north": "eramod:blocks/griffyte_block",
+    "east": "eramod:blocks/griffyte_block",
+    "south": "eramod:blocks/griffyte_block",
+    "west": "eramod:blocks/griffyte_block",
+    "particle": "eramod:blocks/griffyte_block"
+  }
+}
