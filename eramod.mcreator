@@ -76,7 +76,8 @@
           "src/main/resources/assets/eramod/particles/lightning.json",
           "src/main/java/fr/eradium/eramod/client/particle/LightningParticle.java"
         ]
-      }
+      },
+      "path": "~/Effeks"
     },
     {
       "name": "EraParticlesInit",
@@ -88,7 +89,8 @@
         "files": [
           "src/main/java/fr/eradium/eramod/EraParticlesInit.java"
         ]
-      }
+      },
+      "path": "~/Effeks"
     },
     {
       "name": "TeleCaster",
@@ -101,7 +103,8 @@
           "src/main/java/fr/eradium/eramod/item/TeleCasterItem.java",
           "src/main/resources/assets/eramod/models/item/tele_caster.json"
         ]
-      }
+      },
+      "path": "~/Effeks"
     },
     {
       "name": "ParticlesInfos",
@@ -113,7 +116,8 @@
         "files": [
           "src/main/java/fr/eradium/eramod/configuration/ParticlesInfosConfiguration.java"
         ]
-      }
+      },
+      "path": "~/Effeks"
     }
   ],
   "variable_elements": [],
@@ -169,6 +173,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "Effeks",
+        "children": []
       }
     ]
   },
