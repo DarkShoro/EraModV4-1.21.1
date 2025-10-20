@@ -503,7 +503,7 @@
       "name": "GeanaWood",
       "type": "block",
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "geana_wood",
       "metadata": {
         "files": [
@@ -691,7 +691,7 @@
       "name": "GeanaLog",
       "type": "block",
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "registry_name": "geana_log",
       "metadata": {
         "files": [
