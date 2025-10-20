@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "eramod:geana_wood_stairs",
+    "eramod:geana_wood_slab",
+    "eramod:geana_wood_fence",
+    "eramod:geana_stripped_wood",
+    "eramod:geana_stripped_log",
+    "eramod:geana_wood",
+    "eramod:geana_log",
+    "eramod:geana_wood_planks"
+  ]
+}

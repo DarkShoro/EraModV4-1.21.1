@@ -25,8 +25,10 @@ import java.util.HashMap;
 import java.util.Collection;
 import java.util.ArrayList;
 
+import fr.eradium.eramod.init.EramodModTabs;
 import fr.eradium.eramod.init.EramodModParticleTypes;
 import fr.eradium.eramod.init.EramodModItems;
+import fr.eradium.eramod.init.EramodModBlocks;
 
 @Mod("eramod")
 public class EramodMod {
@@ -39,7 +41,11 @@ public class EramodMod {
 		NeoForge.EVENT_BUS.register(this);
 		modEventBus.addListener(this::registerNetworking);
 
+		EramodModBlocks.REGISTRY.register(modEventBus);
+
 		EramodModItems.REGISTRY.register(modEventBus);
+
+		EramodModTabs.REGISTRY.register(modEventBus);
 
 		EramodModParticleTypes.REGISTRY.register(modEventBus);
 

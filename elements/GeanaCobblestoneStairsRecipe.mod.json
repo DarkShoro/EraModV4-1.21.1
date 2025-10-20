@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      },
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      },
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      },
+      {
+        "value": "CUSTOM:GeanaCobblestone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GeanaCobblestoneSlab"
+    },
+    "name": "geana_cobblestone_stairs_recipe",
+    "namespace": "mod"
+  }
+}

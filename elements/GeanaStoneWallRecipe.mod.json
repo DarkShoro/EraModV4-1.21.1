@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:GeanaStone"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GeanaStone"
+      },
+      {
+        "value": "CUSTOM:GeanaStone"
+      },
+      {
+        "value": "CUSTOM:GeanaStone"
+      },
+      {
+        "value": "CUSTOM:GeanaStone"
+      },
+      {
+        "value": "CUSTOM:GeanaStone"
+      },
+      {
+        "value": "CUSTOM:GeanaStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GeanaStoneSlab"
+    },
+    "name": "geana_stone_wall_recipe",
+    "namespace": "mod"
+  }
+}

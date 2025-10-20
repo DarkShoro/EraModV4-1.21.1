@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "eramod:block/geana_stone_slab"
+    },
+    "type=top": {
+      "model": "eramod:block/geana_stone_slab_top"
+    },
+    "type=double": {
+      "model": "eramod:block/geana_stone_slab_full"
+    }
+  }
+}

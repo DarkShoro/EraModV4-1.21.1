@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:galaxite"
+    },
+    "b": {
+      "item": "eramod:deleted_mod_element"
+    }
+  },
+  "result": {
+    "id": "eramod:galaxite_pickaxe",
+    "count": 1
+  }
+}

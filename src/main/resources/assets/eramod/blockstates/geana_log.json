@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "eramod:block/geana_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "eramod:block/geana_log"
+    },
+    "axis=z": {
+      "model": "eramod:block/geana_log",
+      "x": 90
+    }
+  }
+}

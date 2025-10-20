@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:block/stripped_geana_log",
+    "up": "eramod:block/stripped_geana_log",
+    "north": "eramod:block/stripped_geana_log",
+    "east": "eramod:block/stripped_geana_log",
+    "south": "eramod:block/stripped_geana_log",
+    "west": "eramod:block/stripped_geana_log",
+    "particle": "eramod:block/stripped_geana_log"
+  },
+  "render_type": "solid"
+}

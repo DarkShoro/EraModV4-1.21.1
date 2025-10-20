@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_stone"
+    }
+  },
+  "result": {
+    "id": "eramod:deleted_mod_element",
+    "count": 6
+  }
+}

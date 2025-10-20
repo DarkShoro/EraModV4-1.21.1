@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:deleted_mod_element"
+    },
+    "b": {
+      "item": "eramod:deleted_mod_element"
+    }
+  },
+  "result": {
+    "id": "eramod:deleted_mod_element",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "eramod:block/geana_planks",
+    "particle": "eramod:block/geana_planks"
+  },
+  "render_type": "solid"
+}

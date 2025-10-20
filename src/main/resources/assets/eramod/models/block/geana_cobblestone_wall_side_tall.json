@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "eramod:block/geana_cobblestone",
+    "particle": "eramod:block/geana_cobblestone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "eramod:geana_cobblestone_wall",
+    "eramod:geana_stone_stairs",
+    "eramod:geana_stone_slab",
+    "eramod:geana_stone_wall",
+    "eramod:geana_cobblestone_slab",
+    "eramod:geana_cobblestone",
+    "eramod:geana_cobblestone_stairs",
+    "eramod:geana_stone"
+  ]
+}

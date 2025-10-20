@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_stripped_log"
+    }
+  },
+  "result": {
+    "id": "eramod:geana_stripped_wood",
+    "count": 4
+  }
+}

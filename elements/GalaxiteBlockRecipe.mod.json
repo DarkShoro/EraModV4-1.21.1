@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Galaxite"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      },
+      {
+        "value": "CUSTOM:Galaxite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GalaxiteBlock"
+    },
+    "name": "galaxite_block_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:GeanaStrippedLog"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GeanaStrippedLog"
+      },
+      {
+        "value": "CUSTOM:GeanaStrippedLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GeanaStrippedLog"
+      },
+      {
+        "value": "CUSTOM:GeanaStrippedLog"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GeanaStrippedWood"
+    },
+    "name": "geana_stripped_wood_recipe",
+    "namespace": "mod"
+  }
+}
