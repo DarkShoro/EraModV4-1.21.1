@@ -8,14 +8,14 @@
   ],
   "key": {
     "a": {
-      "item": "eramod:deleted_mod_element"
+      "item": "eramod:galaxite"
     },
     "b": {
-      "item": "eramod:deleted_mod_element"
+      "item": "eramod:geana_stick"
     }
   },
   "result": {
-    "id": "eramod:deleted_mod_element",
+    "id": "eramod:galaxite_sword",
     "count": 1
   }
 }

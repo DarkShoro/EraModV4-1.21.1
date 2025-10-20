@@ -1,6 +1,8 @@
 package fr.eradium.eramod.block;
 
-import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+import net.minecraft.world.level.material.MapColor;
+import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.block.WallBlock;
 
 public class GeanaCobblestoneWallBlock extends WallBlock {
 	public GeanaCobblestoneWallBlock() {

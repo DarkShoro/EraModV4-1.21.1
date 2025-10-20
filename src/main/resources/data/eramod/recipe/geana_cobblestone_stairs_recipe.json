@@ -8,11 +8,11 @@
   ],
   "key": {
     "a": {
-      "item": "eramod:deleted_mod_element"
+      "item": "eramod:geana_cobblestone"
     }
   },
   "result": {
-    "id": "eramod:deleted_mod_element",
+    "id": "eramod:geana_cobblestone_slab",
     "count": 4
   }
 }

@@ -11,11 +11,11 @@
       "item": "eramod:galaxite"
     },
     "b": {
-      "item": "eramod:deleted_mod_element"
+      "item": "eramod:geana_stick"
     }
   },
   "result": {
-    "id": "eramod:deleted_mod_element",
+    "id": "eramod:galaxite_hoe",
     "count": 1
   }
 }

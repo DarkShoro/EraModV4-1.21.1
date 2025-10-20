@@ -127,11 +127,11 @@
       "registry_name": "geana_grass",
       "metadata": {
         "files": [
+          "src/main/resources/assets/eramod/models/block/geana_grass.json",
           "src/main/resources/assets/eramod/models/item/geana_grass.json",
           "src/main/java/fr/eradium/eramod/block/GeanaGrassBlock.java",
-          "src/main/resources/assets/eramod/blockstates/geana_grass.json",
           "src/main/resources/data/eramod/loot_table/blocks/geana_grass.json",
-          "src/main/resources/assets/eramod/models/block/geana_grass.json"
+          "src/main/resources/assets/eramod/blockstates/geana_grass.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -186,11 +186,11 @@
       "registry_name": "geana_stone",
       "metadata": {
         "files": [
-          "src/main/java/fr/eradium/eramod/block/GeanaStoneBlock.java",
-          "src/main/resources/assets/eramod/blockstates/geana_stone.json",
           "src/main/resources/data/eramod/loot_table/blocks/geana_stone.json",
+          "src/main/resources/assets/eramod/blockstates/geana_stone.json",
           "src/main/resources/assets/eramod/models/block/geana_stone.json",
-          "src/main/resources/assets/eramod/models/item/geana_stone.json"
+          "src/main/resources/assets/eramod/models/item/geana_stone.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneBlock.java"
         ]
       },
       "path": "~/Geana/blocks"
@@ -203,11 +203,11 @@
       "registry_name": "geana_stripped_wood",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/loot_table/blocks/geana_stripped_wood.json",
-          "src/main/resources/assets/eramod/models/block/geana_stripped_wood.json",
           "src/main/resources/assets/eramod/blockstates/geana_stripped_wood.json",
           "src/main/java/fr/eradium/eramod/block/GeanaStrippedWoodBlock.java",
-          "src/main/resources/assets/eramod/models/item/geana_stripped_wood.json"
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stripped_wood.json",
+          "src/main/resources/assets/eramod/models/item/geana_stripped_wood.json",
+          "src/main/resources/assets/eramod/models/block/geana_stripped_wood.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -220,11 +220,11 @@
       "registry_name": "geana_dirt",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/loot_table/blocks/geana_dirt.json",
-          "src/main/resources/assets/eramod/blockstates/geana_dirt.json",
-          "src/main/resources/assets/eramod/models/block/geana_dirt.json",
+          "src/main/resources/assets/eramod/models/item/geana_dirt.json",
           "src/main/java/fr/eradium/eramod/block/GeanaDirtBlock.java",
-          "src/main/resources/assets/eramod/models/item/geana_dirt.json"
+          "src/main/resources/assets/eramod/models/block/geana_dirt.json",
+          "src/main/resources/assets/eramod/blockstates/geana_dirt.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_dirt.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -237,8 +237,8 @@
       "registry_name": "galaxite_sword_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/galaxite_sword_recipe.json",
-          "src/main/resources/data/eramod/recipe/galaxite_sword_recipe.json"
+          "src/main/resources/data/eramod/recipe/galaxite_sword_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_sword_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -251,8 +251,8 @@
       "registry_name": "galaxite_boots_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/galaxite_boots_recipe.json",
-          "src/main/resources/data/eramod/recipe/galaxite_boots_recipe.json"
+          "src/main/resources/data/eramod/recipe/galaxite_boots_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_boots_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -279,12 +279,12 @@
       "registry_name": "geana_wood_fence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/eramod/models/block/geana_wood_fence_inventory.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaWoodFenceBlock.java",
-          "src/main/resources/assets/eramod/blockstates/geana_wood_fence.json",
-          "src/main/resources/assets/eramod/models/item/geana_wood_fence.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_fence.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodFenceBlock.java",
           "src/main/resources/data/eramod/loot_table/blocks/geana_wood_fence.json",
+          "src/main/resources/assets/eramod/models/item/geana_wood_fence.json",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_fence.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_fence_inventory.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_fence_post.json"
         ]
       },
@@ -312,8 +312,8 @@
       "registry_name": "geana_cobblestone_stairs_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/geana_cobblestone_stairs_recipe.json",
-          "src/main/resources/data/eramod/recipe/geana_cobblestone_stairs_recipe.json"
+          "src/main/resources/data/eramod/recipe/geana_cobblestone_stairs_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_cobblestone_stairs_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -326,11 +326,11 @@
       "registry_name": "geana_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/eramod/blockstates/geana_leaves.json",
-          "src/main/resources/data/eramod/loot_table/blocks/geana_leaves.json",
-          "src/main/resources/assets/eramod/models/block/geana_leaves.json",
           "src/main/java/fr/eradium/eramod/block/GeanaLeavesBlock.java",
-          "src/main/resources/assets/eramod/models/item/geana_leaves.json"
+          "src/main/resources/assets/eramod/models/item/geana_leaves.json",
+          "src/main/resources/assets/eramod/models/block/geana_leaves.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_leaves.json",
+          "src/main/resources/assets/eramod/blockstates/geana_leaves.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -357,8 +357,8 @@
       "registry_name": "geana_stone_wall_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/geana_stone_wall_recipe.json",
-          "src/main/resources/data/eramod/recipe/geana_stone_wall_recipe.json"
+          "src/main/resources/data/eramod/recipe/geana_stone_wall_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_stone_wall_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -371,13 +371,13 @@
       "registry_name": "geana_stone_stairs",
       "metadata": {
         "files": [
-          "src/main/java/fr/eradium/eramod/block/GeanaStoneStairsBlock.java",
-          "src/main/resources/assets/eramod/models/item/geana_stone_stairs.json",
-          "src/main/resources/assets/eramod/models/block/geana_stone_stairs_outer.json",
-          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_stairs.json",
           "src/main/resources/assets/eramod/models/block/geana_stone_stairs_inner.json",
           "src/main/resources/assets/eramod/blockstates/geana_stone_stairs.json",
-          "src/main/resources/assets/eramod/models/block/geana_stone_stairs.json"
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_stairs.json",
+          "src/main/resources/assets/eramod/models/item/geana_stone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_stairs_outer.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneStairsBlock.java"
         ]
       },
       "path": "~/Geana/blocks"
@@ -401,8 +401,8 @@
       "registry_name": "geana_stairs_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/geana_stairs_recipe.json",
-          "src/main/resources/data/eramod/recipe/geana_stairs_recipe.json"
+          "src/main/resources/data/eramod/recipe/geana_stairs_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_stairs_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -429,11 +429,11 @@
       "registry_name": "galaxite_block",
       "metadata": {
         "files": [
-          "src/main/java/fr/eradium/eramod/block/GalaxiteBlockBlock.java",
           "src/main/resources/assets/eramod/blockstates/galaxite_block.json",
-          "src/main/resources/assets/eramod/models/item/galaxite_block.json",
           "src/main/resources/data/eramod/loot_table/blocks/galaxite_block.json",
-          "src/main/resources/assets/eramod/models/block/galaxite_block.json"
+          "src/main/resources/assets/eramod/models/block/galaxite_block.json",
+          "src/main/resources/assets/eramod/models/item/galaxite_block.json",
+          "src/main/java/fr/eradium/eramod/block/GalaxiteBlockBlock.java"
         ]
       },
       "path": "~/Geana/blocks"
@@ -474,13 +474,13 @@
       "registry_name": "geana_cobblestone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab_top.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneSlabBlock.java",
-          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_slab.json",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab.json",
           "src/main/resources/assets/eramod/models/item/geana_cobblestone_slab.json",
           "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_slab.json",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab_full.json"
+          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneSlabBlock.java",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab_top.json",
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab_full.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -507,10 +507,10 @@
       "registry_name": "geana_wood",
       "metadata": {
         "files": [
-          "src/main/java/fr/eradium/eramod/block/GeanaWoodBlock.java",
-          "src/main/resources/assets/eramod/models/item/geana_wood.json",
           "src/main/resources/assets/eramod/models/block/geana_wood.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodBlock.java",
           "src/main/resources/data/eramod/loot_table/blocks/geana_wood.json",
+          "src/main/resources/assets/eramod/models/item/geana_wood.json",
           "src/main/resources/assets/eramod/blockstates/geana_wood.json"
         ]
       },
@@ -524,8 +524,8 @@
       "registry_name": "galaxite_axe",
       "metadata": {
         "files": [
-          "src/main/java/fr/eradium/eramod/item/GalaxiteAxeItem.java",
-          "src/main/resources/assets/eramod/models/item/galaxite_axe.json"
+          "src/main/resources/assets/eramod/models/item/galaxite_axe.json",
+          "src/main/java/fr/eradium/eramod/item/GalaxiteAxeItem.java"
         ]
       },
       "path": "~/Geana/items"
@@ -538,10 +538,10 @@
       "registry_name": "geana_cobblestone",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone.json",
-          "src/main/resources/assets/eramod/models/item/geana_cobblestone.json",
           "src/main/resources/assets/eramod/models/block/geana_cobblestone.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone.json",
           "src/main/resources/assets/eramod/blockstates/geana_cobblestone.json",
+          "src/main/resources/assets/eramod/models/item/geana_cobblestone.json",
           "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneBlock.java"
         ]
       },
@@ -555,8 +555,8 @@
       "registry_name": "galaxite_hammer",
       "metadata": {
         "files": [
-          "src/main/resources/assets/eramod/models/item/galaxite_hammer.json",
-          "src/main/java/fr/eradium/eramod/item/GalaxiteHammerItem.java"
+          "src/main/java/fr/eradium/eramod/item/GalaxiteHammerItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_hammer.json"
         ]
       },
       "path": "~/Geana/items"
@@ -583,14 +583,14 @@
       "registry_name": "geana_cobblestone_wall",
       "metadata": {
         "files": [
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_wall.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall.json",
           "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_wall.json",
           "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_post.json",
           "src/main/resources/assets/eramod/models/item/geana_cobblestone_wall.json",
           "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_side_tall.json",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_inventory.json",
-          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_wall.json",
           "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneWallBlock.java",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall.json"
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_inventory.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -603,8 +603,8 @@
       "registry_name": "galaxite_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/eramod/models/item/galaxite_sword.json",
-          "src/main/java/fr/eradium/eramod/item/GalaxiteSwordItem.java"
+          "src/main/java/fr/eradium/eramod/item/GalaxiteSwordItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_sword.json"
         ]
       },
       "path": "~/Geana/items"
@@ -645,11 +645,11 @@
       "registry_name": "geana_galaxite",
       "metadata": {
         "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_galaxite.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaGalaxiteBlock.java",
           "src/main/resources/assets/eramod/models/item/geana_galaxite.json",
           "src/main/resources/assets/eramod/blockstates/geana_galaxite.json",
-          "src/main/resources/assets/eramod/models/block/geana_galaxite.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaGalaxiteBlock.java",
-          "src/main/resources/data/eramod/loot_table/blocks/geana_galaxite.json"
+          "src/main/resources/assets/eramod/models/block/geana_galaxite.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -662,12 +662,12 @@
       "registry_name": "geana_wood_slab",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_slab.json",
-          "src/main/resources/assets/eramod/blockstates/geana_wood_slab.json",
           "src/main/resources/assets/eramod/models/item/geana_wood_slab.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_slab_top.json",
-          "src/main/resources/assets/eramod/models/block/geana_wood_slab.json",
           "src/main/java/fr/eradium/eramod/block/GeanaWoodSlabBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_slab.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_slab.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_slab_full.json"
         ]
       },
@@ -681,8 +681,8 @@
       "registry_name": "geana_stone_slab_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/geana_stone_slab_recipe.json",
-          "src/main/resources/data/eramod/recipe/geana_stone_slab_recipe.json"
+          "src/main/resources/data/eramod/recipe/geana_stone_slab_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_stone_slab_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -696,9 +696,9 @@
       "metadata": {
         "files": [
           "src/main/resources/data/eramod/loot_table/blocks/geana_log.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaLogBlock.java",
           "src/main/resources/assets/eramod/models/item/geana_log.json",
           "src/main/resources/assets/eramod/models/block/geana_log.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaLogBlock.java",
           "src/main/resources/assets/eramod/blockstates/geana_log.json"
         ]
       },
@@ -712,11 +712,11 @@
       "registry_name": "geana_wood_planks",
       "metadata": {
         "files": [
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodPlanksBlock.java",
           "src/main/resources/data/eramod/loot_table/blocks/geana_wood_planks.json",
-          "src/main/resources/assets/eramod/models/item/geana_wood_planks.json",
           "src/main/resources/assets/eramod/blockstates/geana_wood_planks.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_planks.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaWoodPlanksBlock.java"
+          "src/main/resources/assets/eramod/models/item/geana_wood_planks.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -729,14 +729,14 @@
       "registry_name": "geana_stone_wall",
       "metadata": {
         "files": [
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall_side_tall.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall_inventory.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneWallBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_stone_wall.json",
           "src/main/resources/data/eramod/loot_table/blocks/geana_stone_wall.json",
           "src/main/resources/assets/eramod/models/item/geana_stone_wall.json",
-          "src/main/resources/assets/eramod/models/block/geana_stone_wall_side_tall.json",
-          "src/main/resources/assets/eramod/models/block/geana_stone_wall.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaStoneWallBlock.java",
           "src/main/resources/assets/eramod/models/block/geana_stone_wall_post.json",
-          "src/main/resources/assets/eramod/blockstates/geana_stone_wall.json",
-          "src/main/resources/assets/eramod/models/block/geana_stone_wall_inventory.json"
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -763,10 +763,10 @@
       "registry_name": "geana_stripped_log",
       "metadata": {
         "files": [
+          "src/main/resources/assets/eramod/models/item/geana_stripped_log.json",
+          "src/main/resources/assets/eramod/models/block/geana_stripped_log.json",
           "src/main/resources/assets/eramod/blockstates/geana_stripped_log.json",
           "src/main/java/fr/eradium/eramod/block/GeanaStrippedLogBlock.java",
-          "src/main/resources/assets/eramod/models/block/geana_stripped_log.json",
-          "src/main/resources/assets/eramod/models/item/geana_stripped_log.json",
           "src/main/resources/data/eramod/loot_table/blocks/geana_stripped_log.json"
         ]
       },
@@ -808,8 +808,8 @@
       "registry_name": "geana_planks_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/geana_planks_recipe.json",
-          "src/main/resources/data/eramod/recipe/geana_planks_recipe.json"
+          "src/main/resources/data/eramod/recipe/geana_planks_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_planks_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -822,8 +822,8 @@
       "registry_name": "galaxite_hammer_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/galaxite_hammer_recipe.json",
-          "src/main/resources/data/eramod/recipe/galaxite_hammer_recipe.json"
+          "src/main/resources/data/eramod/recipe/galaxite_hammer_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_hammer_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -836,13 +836,13 @@
       "registry_name": "geana_stone_slab",
       "metadata": {
         "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_slab.json",
+          "src/main/resources/assets/eramod/models/item/geana_stone_slab.json",
           "src/main/resources/assets/eramod/blockstates/geana_stone_slab.json",
           "src/main/resources/assets/eramod/models/block/geana_stone_slab.json",
           "src/main/java/fr/eradium/eramod/block/GeanaStoneSlabBlock.java",
-          "src/main/resources/assets/eramod/models/item/geana_stone_slab.json",
           "src/main/resources/assets/eramod/models/block/geana_stone_slab_top.json",
-          "src/main/resources/assets/eramod/models/block/geana_stone_slab_full.json",
-          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_slab.json"
+          "src/main/resources/assets/eramod/models/block/geana_stone_slab_full.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -869,8 +869,8 @@
       "registry_name": "galaxite_axe_recipe",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/advancement/recipes/galaxite_axe_recipe.json",
-          "src/main/resources/data/eramod/recipe/galaxite_axe_recipe.json"
+          "src/main/resources/data/eramod/recipe/galaxite_axe_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_axe_recipe.json"
         ]
       },
       "path": "~/Geana/recipes"
@@ -897,13 +897,13 @@
       "registry_name": "geana_wood_stairs",
       "metadata": {
         "files": [
-          "src/main/java/fr/eradium/eramod/block/GeanaWoodStairsBlock.java",
-          "src/main/resources/assets/eramod/models/block/geana_wood_stairs_outer.json",
-          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_stairs.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_stairs.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodStairsBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_wood_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_stairs_outer.json",
           "src/main/resources/assets/eramod/models/block/geana_wood_stairs_inner.json",
-          "src/main/resources/assets/eramod/blockstates/geana_wood_stairs.json",
-          "src/main/resources/assets/eramod/models/item/geana_wood_stairs.json"
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_stairs.json",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_stairs.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -944,10 +944,10 @@
       "registry_name": "galaxite_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/eramod/models/item/galaxite_armor_leggings.json",
           "src/main/resources/assets/eramod/models/item/galaxite_armor_chestplate.json",
-          "src/main/resources/assets/eramod/models/item/galaxite_armor_boots.json",
           "src/main/java/fr/eradium/eramod/item/GalaxiteArmorItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_armor_boots.json",
+          "src/main/resources/assets/eramod/models/item/galaxite_armor_leggings.json",
           "src/main/resources/assets/eramod/models/item/galaxite_armor_helmet.json"
         ]
       },
@@ -975,13 +975,13 @@
       "registry_name": "geana_cobblestone_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_stairs.json",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs_inner.json",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs_outer.json",
-          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_stairs.json",
-          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs.json",
           "src/main/resources/assets/eramod/models/item/geana_cobblestone_stairs.json",
-          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneStairsBlock.java"
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs_inner.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs_outer.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneStairsBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs.json"
         ]
       },
       "path": "~/Geana/blocks"
@@ -1167,6 +1167,7 @@
   },
   "metadata": {
     "files": [
+      "src/main/java/fr/eradium/eramod/init/EramodModTabs.java",
       "src/main/java/fr/eradium/eramod/EramodMod.java",
       "src/main/resources/META-INF/neoforge.mods.toml",
       "src/main/resources/pack.mcmeta",
@@ -1174,6 +1175,8 @@
       "src/main/java/fr/eradium/eramod/init/EramodModConfigs.java",
       "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
       "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModBrewingRecipes.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModBlocks.java",
       "src/main/java/fr/eradium/eramod/init/EramodModItems.java"
     ]
   },

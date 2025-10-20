@@ -8,11 +8,11 @@
   ],
   "key": {
     "a": {
-      "item": "eramod:deleted_mod_element"
+      "item": "eramod:geana_wood_planks"
     }
   },
   "result": {
-    "id": "eramod:deleted_mod_element",
+    "id": "eramod:geana_wood_stairs",
     "count": 4
   }
 }
