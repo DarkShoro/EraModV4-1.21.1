@@ -120,7 +120,6 @@
       "path": "~/Effeks"
     },
     {
-<<<<<<< HEAD
       "name": "GeanaGrass",
       "type": "block",
       "compiles": true,
@@ -1002,8 +1001,6 @@
       "path": "~/Geana/recipes"
     },
     {
-=======
->>>>>>> origin/master
       "name": "MainMenu",
       "type": "mixin",
       "compiles": true,
