@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "fr.eradium.eramod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EraWolfSkinMixin",
+    "EraWolfCollarSkinMixin",
+    "EraSkinAPIMixin",
+    "MainMenuMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.4"
+}
