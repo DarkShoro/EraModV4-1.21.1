@@ -1110,7 +1110,41 @@
       "~CUSTOM:GalaxiteArmor.boots"
     ]
   },
-  "tab_element_order": {},
+  "tab_element_order": {
+    "CUSTOM:GeanaTab": [
+      "GeanaGrass",
+      "GeanaDirt",
+      "GeanaStone",
+      "GeanaStoneStairs",
+      "GeanaStoneSlab",
+      "GeanaStoneWall",
+      "GeanaCobblestone",
+      "GeanaCobblestoneStairs",
+      "GeanaCobblestoneSlab",
+      "GeanaCobblestoneWall",
+      "GeanaLog",
+      "GeanaWood",
+      "GeanaStrippedLog",
+      "GeanaStrippedWood",
+      "GeanaWoodPlanks",
+      "GeanaWoodStairs",
+      "GeanaWoodSlab",
+      "GeanaWoodFence",
+      "GeanaLeaves",
+      "GeanaGalaxite",
+      "GalaxiteBlock",
+      "GalaxiteKey",
+      "GeanaStick",
+      "Galaxite",
+      "GalaxiteSword",
+      "GalaxitePickaxe",
+      "GalaxiteAxe",
+      "GalaxiteShovel",
+      "GalaxiteHoe",
+      "GalaxiteHammer",
+      "GalaxiteArmor"
+    ]
+  },
   "language_map": {
     "en_us": {
       "skinapi.refresh.self": "Reloaded your skin cache!",
