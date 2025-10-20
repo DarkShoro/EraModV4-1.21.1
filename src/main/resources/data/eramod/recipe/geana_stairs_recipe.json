@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_wood_planks"
+    }
+  },
+  "result": {
+    "id": "eramod:geana_wood_stairs",
+    "count": 4
+  }
+}

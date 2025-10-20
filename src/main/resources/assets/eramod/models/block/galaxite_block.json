@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:block/galaxite_block",
+    "up": "eramod:block/galaxite_block",
+    "north": "eramod:block/galaxite_block",
+    "east": "eramod:block/galaxite_block",
+    "south": "eramod:block/galaxite_block",
+    "west": "eramod:block/galaxite_block",
+    "particle": "eramod:block/galaxite_block"
+  },
+  "render_type": "solid"
+}

@@ -118,15 +118,1020 @@
         ]
       },
       "path": "~/Effeks"
+    },
+    {
+      "name": "GeanaLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_log.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaLogBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_log.json",
+          "src/main/resources/assets/eramod/models/block/geana_log.json",
+          "src/main/resources/assets/eramod/blockstates/geana_log.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_tab",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaStrippedLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stripped_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/blockstates/geana_stripped_log.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStrippedLogBlock.java",
+          "src/main/resources/assets/eramod/models/block/geana_stripped_log.json",
+          "src/main/resources/assets/eramod/models/item/geana_stripped_log.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stripped_log.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaGrass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_grass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/geana_grass.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaGrassBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_grass.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_grass.json",
+          "src/main/resources/assets/eramod/models/block/geana_grass.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaDirt",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_dirt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_dirt.json",
+          "src/main/resources/assets/eramod/blockstates/geana_dirt.json",
+          "src/main/resources/assets/eramod/models/block/geana_dirt.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaDirtBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_dirt.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaWoodPlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_wood_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_planks.json",
+          "src/main/resources/assets/eramod/models/item/geana_wood_planks.json",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_planks.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_planks.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodPlanksBlock.java"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaWoodStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_wood_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodStairsBlock.java",
+          "src/main/resources/assets/eramod/models/block/geana_wood_stairs_outer.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_stairs_inner.json",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_stairs.json",
+          "src/main/resources/assets/eramod/models/item/geana_wood_stairs.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaWoodSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_wood_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_slab.json",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_slab.json",
+          "src/main/resources/assets/eramod/models/item/geana_wood_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_slab_top.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_slab.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodSlabBlock.java",
+          "src/main/resources/assets/eramod/models/block/geana_wood_slab_full.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaWoodFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_wood_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/block/geana_wood_fence_inventory.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodFenceBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_wood_fence.json",
+          "src/main/resources/assets/eramod/models/item/geana_wood_fence.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_fence.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood_fence.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood_fence_post.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/blockstates/geana_leaves.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_leaves.json",
+          "src/main/resources/assets/eramod/models/block/geana_leaves.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaLeavesBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_leaves.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_wood",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/block/GeanaWoodBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_wood.json",
+          "src/main/resources/assets/eramod/models/block/geana_wood.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_wood.json",
+          "src/main/resources/assets/eramod/blockstates/geana_wood.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaStrippedWood",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stripped_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stripped_wood.json",
+          "src/main/resources/assets/eramod/models/block/geana_stripped_wood.json",
+          "src/main/resources/assets/eramod/blockstates/geana_stripped_wood.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStrippedWoodBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_stripped_wood.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaStone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_stone.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stone.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone.json",
+          "src/main/resources/assets/eramod/models/item/geana_stone.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaCobblestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone.json",
+          "src/main/resources/assets/eramod/models/item/geana_cobblestone.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone.json",
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneBlock.java"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaGalaxite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_galaxite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/geana_galaxite.json",
+          "src/main/resources/assets/eramod/blockstates/geana_galaxite.json",
+          "src/main/resources/assets/eramod/models/block/geana_galaxite.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaGalaxiteBlock.java",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_galaxite.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GalaxiteBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_block",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/block/GalaxiteBlockBlock.java",
+          "src/main/resources/assets/eramod/blockstates/galaxite_block.json",
+          "src/main/resources/assets/eramod/models/item/galaxite_block.json",
+          "src/main/resources/data/eramod/loot_table/blocks/galaxite_block.json",
+          "src/main/resources/assets/eramod/models/block/galaxite_block.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "Galaxite",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/GalaxiteItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite.json"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteBlockRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_block_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_block_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/galaxite_sword.json",
+          "src/main/java/fr/eradium/eramod/item/GalaxiteSwordItem.java"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GeanaStick",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stick",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/GeanaStickItem.java",
+          "src/main/resources/assets/eramod/models/item/geana_stick.json"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxitePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/galaxite_pickaxe.json",
+          "src/main/java/fr/eradium/eramod/item/GalaxitePickaxeItem.java"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/GalaxiteAxeItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_axe.json"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/galaxite_shovel.json",
+          "src/main/java/fr/eradium/eramod/item/GalaxiteShovelItem.java"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/GalaxiteHoeItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_hoe.json"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/galaxite_armor_leggings.json",
+          "src/main/resources/assets/eramod/models/item/galaxite_armor_chestplate.json",
+          "src/main/resources/assets/eramod/models/item/galaxite_armor_boots.json",
+          "src/main/java/fr/eradium/eramod/item/GalaxiteArmorItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_armor_helmet.json"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteHammer",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_hammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/item/galaxite_hammer.json",
+          "src/main/java/fr/eradium/eramod/item/GalaxiteHammerItem.java"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteKey",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_key",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/item/GalaxiteKeyItem.java",
+          "src/main/resources/assets/eramod/models/item/galaxite_key.json"
+        ]
+      },
+      "path": "~/Geana/items"
+    },
+    {
+      "name": "GalaxiteSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_sword_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_sword_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxitePickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/recipe/galaxite_pickaxe_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/recipe/galaxite_shovel_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteAxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_axe_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_axe_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteHoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_hoe_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteHammerRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_hammer_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_hammer_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_hammer_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteHelmetRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_helmet_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteChestplateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_chestplate_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteLeggingsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/recipe/galaxite_leggings_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteBootsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_boots_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_boots_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaStickRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_stick_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_stick_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_stairs_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_stairs_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_slab_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_slab_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/recipe/geana_fence_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_fence_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaCobblestoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs_inner.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs_outer.json",
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_stairs.json",
+          "src/main/resources/assets/eramod/models/item/geana_cobblestone_stairs.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneStairsBlock.java"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaCobblestoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab_top.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneSlabBlock.java",
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab.json",
+          "src/main/resources/assets/eramod/models/item/geana_cobblestone_slab.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_slab_full.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaCobblestoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_cobblestone_wall.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_post.json",
+          "src/main/resources/assets/eramod/models/item/geana_cobblestone_wall.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_side_tall.json",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall_inventory.json",
+          "src/main/resources/assets/eramod/blockstates/geana_cobblestone_wall.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaCobblestoneWallBlock.java",
+          "src/main/resources/assets/eramod/models/block/geana_cobblestone_wall.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaStoneStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneStairsBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_stone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_stairs_outer.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_stairs_inner.json",
+          "src/main/resources/assets/eramod/blockstates/geana_stone_stairs.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_stairs.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaStoneSlab",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/eramod/blockstates/geana_stone_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_slab.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneSlabBlock.java",
+          "src/main/resources/assets/eramod/models/item/geana_stone_slab.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_slab_top.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_slab_full.json",
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_slab.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaStoneWall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone_wall",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/loot_table/blocks/geana_stone_wall.json",
+          "src/main/resources/assets/eramod/models/item/geana_stone_wall.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall_side_tall.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall.json",
+          "src/main/java/fr/eradium/eramod/block/GeanaStoneWallBlock.java",
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall_post.json",
+          "src/main/resources/assets/eramod/blockstates/geana_stone_wall.json",
+          "src/main/resources/assets/eramod/models/block/geana_stone_wall_inventory.json"
+        ]
+      },
+      "path": "~/Geana/blocks"
+    },
+    {
+      "name": "GeanaWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/recipe/geana_wood_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_wood_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaStrippedWoodRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stripped_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_stripped_wood_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_stripped_wood_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaStoneStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/recipe/geana_stone_stairs_recipe.json",
+          "src/main/resources/data/eramod/advancement/recipes/geana_stone_stairs_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaStoneSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_stone_slab_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_stone_slab_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaStoneWallRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_stone_wall_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_stone_wall_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_stone_wall_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaCobblestoneStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_cobblestone_stairs_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_cobblestone_stairs_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaCobblestoneSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_cobblestone_slab_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_cobblestone_slab_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaCobblestoneWallRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_cobblestone_wall_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_cobblestone_wall_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_cobblestone_wall_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GeanaPlanksRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geana_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/geana_planks_recipe.json",
+          "src/main/resources/data/eramod/recipe/geana_planks_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
+    },
+    {
+      "name": "GalaxiteRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxite_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/eramod/advancement/recipes/galaxite_recipe.json",
+          "src/main/resources/data/eramod/recipe/galaxite_recipe.json"
+        ]
+      },
+      "path": "~/Geana/recipes"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {
-    "BLOCKS:minecraft:mineable/pickaxe": [],
-    "BLOCKS:minecraft:needs_diamond_tool": []
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:GeanaStoneWall",
+      "~CUSTOM:GeanaStoneSlab",
+      "~CUSTOM:GeanaStoneStairs",
+      "~CUSTOM:GeanaCobblestoneWall",
+      "~CUSTOM:GeanaCobblestoneSlab",
+      "~CUSTOM:GeanaCobblestoneStairs",
+      "~CUSTOM:GalaxiteBlock",
+      "~CUSTOM:GeanaGalaxite",
+      "~CUSTOM:GeanaCobblestone",
+      "~CUSTOM:GeanaStone"
+    ],
+    "BLOCKS:minecraft:needs_diamond_tool": [],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:GeanaWood",
+      "~CUSTOM:GeanaWoodFence",
+      "~CUSTOM:GeanaWoodSlab",
+      "~CUSTOM:GeanaWoodStairs",
+      "~CUSTOM:GeanaWoodPlanks",
+      "~CUSTOM:GeanaStrippedLog",
+      "~CUSTOM:GeanaStrippedWood",
+      "~CUSTOM:GeanaLog"
+    ],
+    "BLOCKS:minecraft:mineable/shovel": [
+      "~CUSTOM:GeanaDirt",
+      "~CUSTOM:GeanaGrass"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:GeanaStoneStairs",
+      "~CUSTOM:GeanaCobblestoneStairs",
+      "~CUSTOM:GeanaWoodStairs"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:GeanaStoneSlab",
+      "~CUSTOM:GeanaCobblestoneSlab",
+      "~CUSTOM:GeanaWoodSlab"
+    ],
+    "BLOCKS:minecraft:wooden_fences": [
+      "~CUSTOM:GeanaWoodFence"
+    ],
+    "BLOCKS:minecraft:leaves": [
+      "~CUSTOM:GeanaLeaves"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:GeanaStoneWall",
+      "~CUSTOM:GeanaStoneSlab",
+      "~CUSTOM:GeanaStoneStairs",
+      "~CUSTOM:GeanaCobblestoneWall",
+      "~CUSTOM:GeanaCobblestoneSlab",
+      "~CUSTOM:GeanaCobblestoneStairs",
+      "~CUSTOM:GeanaCobblestone",
+      "~CUSTOM:GeanaStone"
+    ],
+    "BLOCKS:minecraft:mineable/hoe": [
+      "~CUSTOM:GeanaLeaves"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:GalaxiteBlock",
+      "~CUSTOM:GeanaGalaxite"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:GalaxiteSword"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:GalaxiteHammer",
+      "~CUSTOM:GalaxitePickaxe"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:GalaxiteAxe"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:GalaxiteShovel"
+    ],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:GalaxiteHoe"
+    ],
+    "ITEMS:minecraft:head_armor": [
+      "~CUSTOM:GalaxiteArmor.helmet"
+    ],
+    "ITEMS:minecraft:chest_armor": [
+      "~CUSTOM:GalaxiteArmor.body"
+    ],
+    "ITEMS:minecraft:leg_armor": [
+      "~CUSTOM:GalaxiteArmor.legs"
+    ],
+    "ITEMS:minecraft:foot_armor": [
+      "~CUSTOM:GalaxiteArmor.boots"
+    ],
+    "BLOCKS:minecraft:walls": [
+      "~CUSTOM:GeanaStoneWall",
+      "~CUSTOM:GeanaCobblestoneWall"
+    ]
   },
-  "tab_element_order": {},
+  "tab_element_order": {
+    "CUSTOM:GeanaTab": [
+      "GeanaGrass",
+      "GeanaDirt",
+      "GeanaStone",
+      "GeanaStoneStairs",
+      "GeanaStoneSlab",
+      "GeanaStoneWall",
+      "GeanaLeaves",
+      "GeanaCobblestone",
+      "GeanaCobblestoneStairs",
+      "GeanaCobblestoneSlab",
+      "GeanaCobblestoneWall",
+      "GeanaLog",
+      "GeanaWood",
+      "GeanaStrippedLog",
+      "GeanaStrippedWood",
+      "GeanaWoodPlanks",
+      "GeanaWoodStairs",
+      "GeanaWoodSlab",
+      "GeanaWoodFence",
+      "GeanaGalaxite",
+      "GalaxiteBlock",
+      "GeanaStick",
+      "Galaxite",
+      "GalaxiteKey",
+      "GalaxiteSword",
+      "GalaxitePickaxe",
+      "GalaxiteAxe",
+      "GalaxiteShovel",
+      "GalaxiteHoe",
+      "GalaxiteHammer",
+      "GalaxiteArmor"
+    ]
+  },
   "language_map": {
     "en_us": {
       "skinapi.refresh.self": "Reloaded your skin cache!",
@@ -143,18 +1148,56 @@
       "skinapi.unignored.specific": "Unignored custom {t} for player: ",
       "skinapi.ignored.specific": "Ignored custom {t} for player: ",
       "skinapi.failed.inlist": "{p}\u0027s {type} is already ignored!",
-      "item.eramod.tele_caster": "Caster"
+      "item.eramod.tele_caster": "Caster",
+      "block.eramod.geana_log": "Geana Log",
+      "item_group.eramod.geana_tab": "Geana",
+      "block.eramod.geana_stripped_log": "Geana Stripped Log",
+      "block.eramod.geana_grass": "Geana Grass Block",
+      "block.eramod.geana_dirt": "Geana Dirt",
+      "block.eramod.geana_wood_planks": "Geana Wood Planks",
+      "block.eramod.geana_wood_stairs": "Geana Wood Stairs",
+      "block.eramod.geana_wood_slab": "Geana Wood Slab",
+      "block.eramod.geana_wood_fence": "Geana Wood Fence",
+      "block.eramod.geana_leaves": "Geana Leaves",
+      "block.eramod.geana_wood": "Geana Wood",
+      "block.eramod.geana_stripped_wood": "Geana Stripped Wood",
+      "block.eramod.geana_stone": "Geana Stone",
+      "block.eramod.geana_cobblestone": "Geana Cobblestone",
+      "block.eramod.geana_galaxite": "Galaxite Ore",
+      "block.eramod.galaxite_block": "Galaxite Block",
+      "item.eramod.galaxite": "Galaxite",
+      "item.eramod.galaxite_sword": "Galaxite Sword",
+      "item.eramod.geana_stick": "Geana Stick",
+      "item.eramod.galaxite_pickaxe": "Galaxite Pickaxe",
+      "item.eramod.galaxite_axe": "Galaxite Axe",
+      "item.eramod.galaxite_shovel": "Galaxite Shovel",
+      "item.eramod.galaxite_hoe": "Galaxite Hoe",
+      "item.eramod.galaxite_armor_chestplate": "Galaxite Chestplate",
+      "item.eramod.galaxite_armor_boots": "Galaxite Boots",
+      "item.eramod.galaxite_armor_leggings": "Galaxite Leggings",
+      "item.eramod.galaxite_armor_helmet": "Galaxite Helmet",
+      "item.eramod.galaxite_hammer": "Galaxite Hammer",
+      "item.eramod.galaxite_key": "Galaxite Key",
+      "block.eramod.geana_cobblestone_stairs": "Geana Cobblestone Stairs",
+      "block.eramod.geana_cobblestone_slab": "Geana Cobblestone Slab",
+      "block.eramod.geana_cobblestone_wall": "Geana Cobblestone Wall",
+      "block.eramod.geana_stone_stairs": "Geana Stone Stairs",
+      "block.eramod.geana_stone_slab": "Geana Stone Slab",
+      "block.eramod.geana_stone_wall": "Geana Stone Wall"
     }
   },
   "metadata": {
     "files": [
-      "src/main/java/fr/eradium/eramod/EramodMod.java",
-      "src/main/resources/META-INF/neoforge.mods.toml",
       "src/main/resources/pack.mcmeta",
+      "src/main/java/fr/eradium/eramod/init/EramodModTabs.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/fr/eradium/eramod/EramodMod.java",
       "src/main/resources/eramod.mixins.json",
       "src/main/java/fr/eradium/eramod/init/EramodModConfigs.java",
-      "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
       "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModParticles.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModBrewingRecipes.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModBlocks.java",
       "src/main/java/fr/eradium/eramod/init/EramodModItems.java"
     ]
   },
@@ -177,6 +1220,23 @@
       {
         "name": "Effeks",
         "children": []
+      },
+      {
+        "name": "Geana",
+        "children": [
+          {
+            "name": "blocks",
+            "children": []
+          },
+          {
+            "name": "items",
+            "children": []
+          },
+          {
+            "name": "recipes",
+            "children": []
+          }
+        ]
       }
     ]
   },

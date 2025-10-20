@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "eramod:block/geana_stone",
+    "bottom": "eramod:block/geana_stone",
+    "top": "eramod:block/geana_stone",
+    "side": "eramod:block/geana_stone"
+  },
+  "render_type": "solid"
+}

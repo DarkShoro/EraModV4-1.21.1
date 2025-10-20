@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "eramod:block/geana_cobblestone",
+    "bottom": "eramod:block/geana_cobblestone",
+    "top": "eramod:block/geana_cobblestone",
+    "side": "eramod:block/geana_cobblestone"
+  },
+  "render_type": "solid"
+}

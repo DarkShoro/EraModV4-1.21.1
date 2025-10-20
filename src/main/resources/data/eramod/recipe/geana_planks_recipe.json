@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_log"
+    }
+  },
+  "result": {
+    "id": "eramod:geana_wood_planks",
+    "count": 4
+  }
+}

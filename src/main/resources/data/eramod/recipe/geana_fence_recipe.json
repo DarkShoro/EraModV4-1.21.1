@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_wood_planks"
+    },
+    "b": {
+      "item": "eramod:geana_stick"
+    }
+  },
+  "result": {
+    "id": "eramod:geana_wood_fence",
+    "count": 3
+  }
+}

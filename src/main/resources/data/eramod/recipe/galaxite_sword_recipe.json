@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:galaxite"
+    },
+    "b": {
+      "item": "eramod:geana_stick"
+    }
+  },
+  "result": {
+    "id": "eramod:galaxite_sword",
+    "count": 1
+  }
+}

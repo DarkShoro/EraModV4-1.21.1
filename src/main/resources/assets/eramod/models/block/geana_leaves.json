@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eramod:block/geana_leaves",
+    "particle": "eramod:block/geana_leaves"
+  }
+}

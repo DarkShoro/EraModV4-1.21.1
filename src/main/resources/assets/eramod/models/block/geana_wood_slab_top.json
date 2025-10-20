@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "eramod:block/geana_planks",
+    "bottom": "eramod:block/geana_planks",
+    "top": "eramod:block/geana_planks",
+    "side": "eramod:block/geana_planks"
+  },
+  "render_type": "solid"
+}

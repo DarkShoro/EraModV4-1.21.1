@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_cobblestone"
+    }
+  },
+  "result": {
+    "id": "eramod:geana_stone_wall",
+    "count": 6
+  }
+}

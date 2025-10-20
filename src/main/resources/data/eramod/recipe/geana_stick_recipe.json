@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "eramod:geana_wood_planks"
+    }
+  },
+  "result": {
+    "id": "eramod:geana_stick",
+    "count": 4
+  }
+}

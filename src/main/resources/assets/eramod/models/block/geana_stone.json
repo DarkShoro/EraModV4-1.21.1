@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eramod:block/geana_stone",
+    "up": "eramod:block/geana_stone",
+    "north": "eramod:block/geana_stone",
+    "east": "eramod:block/geana_stone",
+    "south": "eramod:block/geana_stone",
+    "west": "eramod:block/geana_stone",
+    "particle": "eramod:block/geana_stone"
+  },
+  "render_type": "solid"
+}
