@@ -118,6 +118,19 @@
         ]
       },
       "path": "~/Effeks"
+    },
+    {
+      "name": "MainMenu",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "main_menu",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/mixin/MainMenuMixin.java"
+        ]
+      },
+      "path": "~/Mixins"
     }
   ],
   "variable_elements": [],

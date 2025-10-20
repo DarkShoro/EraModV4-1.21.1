@@ -5,7 +5,8 @@
   "mixins": [
     "EraWolfSkinMixin",
     "EraWolfCollarSkinMixin",
-    "EraSkinAPIMixin"
+    "EraSkinAPIMixin",
+    "MainMenuMixin"
   ],
   "client": [],
   "injectors": {
