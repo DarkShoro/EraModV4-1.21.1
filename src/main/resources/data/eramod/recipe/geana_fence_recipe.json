@@ -7,14 +7,14 @@
   ],
   "key": {
     "a": {
-      "item": "eramod:geana_wood_planks"
+      "item": "eramod:deleted_mod_element"
     },
     "b": {
-      "item": "eramod:geana_stick"
+      "item": "eramod:deleted_mod_element"
     }
   },
   "result": {
-    "id": "eramod:geana_wood_fence",
+    "id": "eramod:deleted_mod_element",
     "count": 3
   }
 }
