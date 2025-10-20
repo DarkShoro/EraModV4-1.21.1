@@ -7,11 +7,11 @@
   ],
   "key": {
     "a": {
-      "item": "eramod:galaxite"
+      "item": "eramod:deleted_mod_element"
     }
   },
   "result": {
-    "id": "eramod:galaxite_armor_boots",
+    "id": "eramod:deleted_mod_element_boots",
     "count": 1
   }
 }

@@ -4,7 +4,7 @@
   "experience": 20,
   "cookingtime": 200,
   "ingredient": {
-    "item": "eramod:geana_galaxite"
+    "item": "eramod:deleted_mod_element"
   },
   "result": {
     "id": "eramod:galaxite"
