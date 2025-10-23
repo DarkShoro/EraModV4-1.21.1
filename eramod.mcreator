@@ -1012,6 +1012,36 @@
         ]
       },
       "path": "~/Mixins"
+    },
+    {
+      "name": "PlayerStatue",
+      "type": "block",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "player_statue",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/block/PlayerStatueBlock.java",
+          "src/main/resources/assets/eramod/models/block/player_statue.json",
+          "src/main/resources/assets/eramod/models/item/player_statue.json",
+          "src/main/java/fr/eradium/eramod/block/entity/PlayerStatueBlockEntity.java",
+          "src/main/resources/assets/eramod/blockstates/player_statue.json",
+          "src/main/resources/data/eramod/loot_table/blocks/player_statue.json"
+        ]
+      }
+    },
+    {
+      "name": "EraPanorama",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "era_panorama",
+      "metadata": {
+        "files": [
+          "src/main/java/fr/eradium/eramod/mixin/EraPanoramaMixin.java"
+        ]
+      },
+      "path": "~/Mixins"
     }
   ],
   "variable_elements": [],
@@ -1196,7 +1226,8 @@
       "item.eramod.galaxite_armor_boots": "Galaxite Boots",
       "item.eramod.galaxite_armor_leggings": "Galaxite Leggings",
       "item.eramod.galaxite_armor_helmet": "Galaxite Helmet",
-      "block.eramod.geana_cobblestone_stairs": "Geana Cobblestone Stairs"
+      "block.eramod.geana_cobblestone_stairs": "Geana Cobblestone Stairs",
+      "block.eramod.player_statue": "Player Statue"
     }
   },
   "metadata": {
@@ -1211,6 +1242,7 @@
       "src/main/java/fr/eradium/eramod/init/EramodModParticleTypes.java",
       "src/main/java/fr/eradium/eramod/init/EramodModBrewingRecipes.java",
       "src/main/java/fr/eradium/eramod/init/EramodModBlocks.java",
+      "src/main/java/fr/eradium/eramod/init/EramodModBlockEntities.java",
       "src/main/java/fr/eradium/eramod/init/EramodModItems.java"
     ]
   },
