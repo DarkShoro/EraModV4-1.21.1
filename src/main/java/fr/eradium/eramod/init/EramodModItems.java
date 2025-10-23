@@ -61,6 +61,7 @@ public class EramodModItems {
 	public static final DeferredItem<Item> GALAXITE_ARMOR_LEGGINGS = REGISTRY.register("galaxite_armor_leggings", GalaxiteArmorItem.Leggings::new);
 	public static final DeferredItem<Item> GALAXITE_ARMOR_BOOTS = REGISTRY.register("galaxite_armor_boots", GalaxiteArmorItem.Boots::new);
 	public static final DeferredItem<Item> GEANA_COBBLESTONE_STAIRS = block(EramodModBlocks.GEANA_COBBLESTONE_STAIRS);
+	public static final DeferredItem<Item> PLAYER_STATUE = block(EramodModBlocks.PLAYER_STATUE);
 
 	// Start of user code block custom items
 	// End of user code block custom items

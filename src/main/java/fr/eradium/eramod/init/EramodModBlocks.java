@@ -8,6 +8,7 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 
 import net.minecraft.world.level.block.Block;
 
+import fr.eradium.eramod.block.PlayerStatueBlock;
 import fr.eradium.eramod.block.GeanaWoodStairsBlock;
 import fr.eradium.eramod.block.GeanaWoodSlabBlock;
 import fr.eradium.eramod.block.GeanaWoodPlanksBlock;
@@ -54,6 +55,7 @@ public class EramodModBlocks {
 	public static final DeferredBlock<Block> GEANA_STONE_SLAB = REGISTRY.register("geana_stone_slab", GeanaStoneSlabBlock::new);
 	public static final DeferredBlock<Block> GEANA_WOOD_STAIRS = REGISTRY.register("geana_wood_stairs", GeanaWoodStairsBlock::new);
 	public static final DeferredBlock<Block> GEANA_COBBLESTONE_STAIRS = REGISTRY.register("geana_cobblestone_stairs", GeanaCobblestoneStairsBlock::new);
+	public static final DeferredBlock<Block> PLAYER_STATUE = REGISTRY.register("player_statue", PlayerStatueBlock::new);
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

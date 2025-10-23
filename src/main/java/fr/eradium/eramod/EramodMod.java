@@ -29,6 +29,7 @@ import fr.eradium.eramod.init.EramodModTabs;
 import fr.eradium.eramod.init.EramodModParticleTypes;
 import fr.eradium.eramod.init.EramodModItems;
 import fr.eradium.eramod.init.EramodModBlocks;
+import fr.eradium.eramod.init.EramodModBlockEntities;
 
 @Mod("eramod")
 public class EramodMod {
@@ -42,7 +43,7 @@ public class EramodMod {
 		modEventBus.addListener(this::registerNetworking);
 
 		EramodModBlocks.REGISTRY.register(modEventBus);
-
+		EramodModBlockEntities.REGISTRY.register(modEventBus);
 		EramodModItems.REGISTRY.register(modEventBus);
 
 		EramodModTabs.REGISTRY.register(modEventBus);
